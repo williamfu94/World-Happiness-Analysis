@@ -28,8 +28,8 @@ To ensure transparency in the analysis, the project follows this logical flow:
 
 ### **5. Key Findings & Visualizations**
 
-<img width="833" height="549" alt="Image" src="https://github.com/user-attachments/assets/00fd81b9-b9f9-4e30-8da9-745a0e767a15" />
-<img width="957" height="549" alt="Image" src="https://github.com/user-attachments/assets/4ac9632b-207c-456b-9d0a-54309b7d1f0c" />
+<img width="957" height="549" alt="2" src="https://github.com/user-attachments/assets/c465bc54-4244-485b-a7bf-beb03c3f3327" />
+<img width="833" height="549" alt="1" src="https://github.com/user-attachments/assets/6eba3f2e-21f1-4dc2-af0e-77b5e70eb957" />
 
 **A. Economic Correlation**
 The scatter plot reveals a strong positive trend. As GDP per Capita increases, there is a visible rise in Happiness Scores, confirming that economic stability is a foundational requirement for high well-being.
